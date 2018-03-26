@@ -1,2 +1,6 @@
 node_modules/
 server.log
+app.js
+challenge.js
+challenge_blank.js
+week_eight.js
